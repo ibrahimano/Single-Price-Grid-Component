@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/single-price-grid-component-egUA48zhQ)
 - Live Site URL: [live site URL](https://ibrahimano.github.io/Single-Price-Grid-Component/)
 
 ## My process
