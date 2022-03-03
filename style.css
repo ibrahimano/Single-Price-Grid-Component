@@ -89,8 +89,9 @@ body {
 }
 
 .box-3 {
-	background:  hsl(179, 62%, 48%);
+	background:  hsl(179, 62%, 43%);
 	border-bottom-right-radius: 10px;
+	opacity: 0.8;
 }
 
 
