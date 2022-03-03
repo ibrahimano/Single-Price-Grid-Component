@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-	background:lightgrey;
+	background: hsl(204, 43%, 93%);
 	display: flex;
 	justify-content: center;
 	align-items: center;
